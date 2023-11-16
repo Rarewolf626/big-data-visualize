@@ -1,5 +1,4 @@
 # 2023-BigDataVisualization
-Repository for Big Data Visualization Group Work
 This is a work by Abdelrhman Abdelmooty, Giada Damiani, João Catraio, Karlos Martínez and Jose Trespalle. This work is licensed under CC-BY-4.0 license.
 
 This work is aimed to show how different factors are correlated with elections results. We show these results on scale of province, district and municipality. We consider factors such as income, language use and employment.
