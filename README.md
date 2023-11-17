@@ -10,14 +10,14 @@
 
 ## Software requirements 
 
-Election_results_county_map.ipynb
-Election_results_municipality_map.ipynb
-Election_results_province_map.ipynb
-Elections_result_Barcelona_MAP.ipynb
-ForeignersByProvince.ipynb
-Participation_results_county_map.ipynb
-Participation_results_municipality_map.ipynb
-Participation_results_province_map.ipynb
+- Election_results_county_map.ipynb
+- Election_results_municipality_map.ipynb
+- Election_results_province_map.ipynb
+- Elections_result_Barcelona_MAP.ipynb
+- ForeignersByProvince.ipynb
+- Participation_results_county_map.ipynb
+- Participation_results_municipality_map.ipynb
+- Participation_results_province_map.ipynb
 * Python 3.8 or higher
 * Essential Python packages in `requirements.txt`
   * [geopandas](https://geopandas.org/)
