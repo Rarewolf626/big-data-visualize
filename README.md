@@ -9,15 +9,6 @@
 4. [Comments](#comments)
 
 ## Software requirements 
-
-- Election_results_county_map.ipynb
-- Election_results_municipality_map.ipynb
-- Election_results_province_map.ipynb
-- Elections_result_Barcelona_MAP.ipynb
-- ForeignersByProvince.ipynb
-- Participation_results_county_map.ipynb
-- Participation_results_municipality_map.ipynb
-- Participation_results_province_map.ipynb
 * Python 3.8 or higher
 * Essential Python packages in `requirements.txt`
   * [geopandas](https://geopandas.org/)
@@ -36,14 +27,14 @@ This work is aimed to show how different factors are correlated with elections r
 ### Notebooks
 Our repository contains the following notebooks:
 
-* Election_results_county_map.ipynb
-* Election_results_municipality_map.ipynb
-* Election_results_province_map.ipynb
-* Elections_result_Barcelona_MAP.ipynb
+* Election_results_county_map.ipynb: This creates a map of the Catalonian counties showing the election results.
+* Election_results_municipality_map.ipynb: This creates a map of the Catalonian municipalities showing the election results.
+* Election_results_province_map.ipynb: This creates a map of the Catalonian provinces showing the election results.
+* Elections_result_Barcelona_MAP.ipynb: This creates a map of Barcelona's districts showing the election results.
 * ForeignersByProvince.ipynb: This creates a map of Barcelona's districts that shows which the concentration of foreigners residency across the districts
-* Participation_results_county_map.ipynb
-* Participation_results_municipality_map.ipynb
-* Participation_results_province_map.ipynb
+* Participation_results_county_map.ipynb: This creates a map of the Catalonian counties showing the participation results.
+* Participation_results_municipality_map.ipynb: This creates a map of the Catalonian municipalities showing the participation results.
+* Participation_results_province_map.ipynb: This creates a map of the Catalonian provinces showing the participation results.
 
 ### CSV & GeoJSON data
 Our repository contains the following data:
