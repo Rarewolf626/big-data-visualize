@@ -38,10 +38,7 @@ Our repository contains the following notebooks:
 
 ### CSV & GeoJSON data
 Our repository contains the following data:
-* G20192-Columnes-ME.csv : raw election data results with the number of votes each party receives is in columns
-* G20192-Columnes-ME-EN.csv : column heads translated in english for transparency
-* G20192-Participació-ME.csv : raw election data results with participation numbers
-* G20192-Vots-ME.csv : raw election data with number of votes
+* G20192-Columnes-ME-EN.csv : election data results with the number of votes each party receives with district, municipality, county (comarca) and province precision. Column heads were translated into English for transparency.
 * districts_BCN.geojson : map of Barcelona's districts
 * municipality_map.geojson : map of Catalonia's municipalities
 * county_map.geojson : map of Catalonia's counties (comarcas)
