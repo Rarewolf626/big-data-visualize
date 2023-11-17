@@ -31,6 +31,7 @@ Our repository contains the following notebooks:
 * Election_results_municipality_map.ipynb: This creates a map of the Catalonian municipalities showing the election results.
 * Election_results_province_map.ipynb: This creates a map of the Catalonian provinces showing the election results.
 * Elections_result_Barcelona_MAP.ipynb: This creates a map of Barcelona's districts showing the election results.
+* Election_Results_by_Census&Unenployement.ipynb: This creates two scatter plots relating the votes to Catalanist/Non-Catalanist parties respect to the census and then respect to the unenployement rate.
 * ForeignersByProvince.ipynb: This creates a map of Barcelona's districts that shows which the concentration of foreigners residency across the districts
 * Participation_results_county_map.ipynb: This creates a map of the Catalonian counties showing the participation results.
 * Participation_results_municipality_map.ipynb: This creates a map of the Catalonian municipalities showing the participation results.
@@ -43,5 +44,6 @@ Our repository contains the following data:
 * municipality_map.geojson : map of Catalonia's municipalities
 * county_map.geojson : map of Catalonia's counties (comarcas)
 * province_map.geojson : map of Catalonia's provinces
+* Desempleo.csv : Number of unenployed people by municipality.
 
 This is a work by Abdelrhman Abdelmooty, Giada Damiani, João Catraio, Karlos Martínez and Jose Trespalle. This work is licensed under CC-BY-4.0 license.
