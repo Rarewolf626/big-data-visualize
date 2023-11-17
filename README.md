@@ -6,7 +6,7 @@
 3. [Content of this repository](#Content-of-this-repository)
       1. [Notebooks](#Notebooks)
       2. [CSV & GeoJSON data](#CSV_&-GeoJSON-data)
-4. [Comments](#comments)
+4. [Comment](#comment)
 
 ## Software requirements 
 * Python 3.8 or higher
@@ -46,4 +46,5 @@ Our repository contains the following data:
 * province_map.geojson : map of Catalonia's provinces
 * Desempleo.csv : Number of unenployed people by municipality.
 
-This is a work by Abdelrhman Abdelmooty, Giada Damiani, João Catraio, Karlos Martínez and Jose Trespalle. This work is licensed under CC-BY-4.0 license.
+##Comment
+This is a work by Abdelrhman Abdelmooty (gomgoma), Giada Damiani(giadadamiani), João Catraio(JprCat), Karlos Martínez(kostasotaduis) and Jose Trespalle(trespalle). This work is licensed under CC-BY-4.0 license.
