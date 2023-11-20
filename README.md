@@ -47,4 +47,4 @@ Our repository contains the following data:
 * Desempleo.csv : Number of unenployed people by municipality.
 
 ##Comment
-This is a work by Abdelrhman Abdelmooty (gomgoma), Giada Damiani(giadadamiani), João Catraio(JprCat), Karlos Martínez(kostasotaduis) and Jose Trespalle(trespalle). This work is licensed under CC-BY-4.0 license.
+This is a work by Abdelrhman Abdelmooty (gomgoma), Giada Damiani(giadadamiani), João Catraio(JprCat), Karlos Martínez(kostasotaduis) and Jose Arnal Trespallé(trespalle). This work is licensed under CC-BY-4.0 license.
