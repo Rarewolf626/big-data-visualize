@@ -47,6 +47,7 @@ Our repository contains the following data:
 * province_map.geojson : map of Catalonia's provinces [[Link to Source]](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/L-mits-administratius-provincials-de-Catalunya/d2un-hz8w)
 * Desempleo.csv : Number of unemployed people by municipality.
 * Foreign.csv : Number of foreigner residents by province.
+* (Foreign file for county to be added too)
 
 ##Comment
 This is a work by Abdelrhman Abdelmooty (gomgoma), Giada Damiani(giadadamiani), João Catraio(JprCat), Karlos Martínez(kostasotaduis) and Jose Arnal Trespallé(trespalle). This work is licensed under CC-BY-4.0 license.
