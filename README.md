@@ -38,6 +38,7 @@ Our repository contains the following notebooks:
 * Participation_results_municipality_map.ipynb: This creates a map of the Catalan municipalities showing the participation results.
 * Participation_results_province_map.ipynb: This creates a map of the Catalan provinces showing the participation results.
 * catalan_votes_vs_participation.ipynb: This creates a plot of the rate of votes to Catalan parties vs. participation rate.
+* Fluent_ratio.py : Creates the plot for the percentage of fluent Catalan speakers in comparison to total population of each county.
 
 ### CSV & GeoJSON data
 Our repository contains the following data:
@@ -49,7 +50,8 @@ Our repository contains the following data:
 * province_map.geojson : map of Catalonia's provinces [[Link to Source]](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/L-mits-administratius-provincials-de-Catalunya/d2un-hz8w)
 * Desempleo.csv : Number of unemployed people by municipality.
 * Foreign.csv : Number of foreigner residents by districts.
-* (Foreign file for county to be added too)
+* ConeixementCatala.csv : Numbers of people that speak, understant, read Catalan. The data is exposed by County of Catalunya. The corresponding plotting of this data is Fluent_ratio.py. We considered that people who speak it, are the ones to be considered fluent.
+* Knowledge_Catalan_Districts_Barcelona.csv : Table of the data relative to Catala understanding skills (speak, understand, read, write or all of the above (complete fluency)). The Data is organized by districts of Barcelona. 
 
 ##Comment
 This is a work by Abdelrhman Abdelmooty (gomgoma), Giada Damiani (giadadamiani), João Catraio (JprCat), Karlos Martínez (kostasotaduis) and Jose Arnal Trespallé (trespalle). This work is licensed under CC-BY-4.0 license.
