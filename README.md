@@ -50,4 +50,4 @@ Our repository contains the following data:
 * (Foreign file for county to be added too)
 
 ##Comment
-This is a work by Abdelrhman Abdelmooty (gomgoma), Giada Damiani(giadadamiani), João Catraio(JprCat), Karlos Martínez(kostasotaduis) and Jose Arnal Trespallé(trespalle). This work is licensed under CC-BY-4.0 license.
+This is a work by Abdelrhman Abdelmooty (gomgoma), Giada Damiani (giadadamiani), João Catraio (JprCat), Karlos Martínez (kostasotaduis) and Jose Arnal Trespallé (trespalle). This work is licensed under CC-BY-4.0 license.
