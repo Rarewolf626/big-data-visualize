@@ -21,7 +21,7 @@
 
 ## Goal of Work 
 
-This work is aimed to show how different factors are correlated with elections results. We show these results on scale of district, municipality, county and province. We consider factors such as income, language use and employment.
+This work is aimed to show how different factors are correlated with the Spanish general elections results of November 2019. We show these results on scale of district, municipality, county and province. We consider factors such as income, language use and employment.
 
 ## Content of this repository
 ### Notebooks
@@ -43,7 +43,7 @@ Our repository contains the following notebooks:
 
 ### CSV & GeoJSON data
 Our repository contains the following data:
-* G20192-Columnes-ME-EN.csv : election data results with the number of votes each party receives with district, municipality, county (comarca) and province precision. Column heads were translated into English for transparency.
+* G20192-Columnes-ME-EN.csv : Spanish general election results from November 2019. It contains the number of votes each party received with district, municipality, county (comarca) and province precision, and participation data. Column heads were translated into English for transparency.
 * districts_BCN.geojson : map of Barcelona's districts [[Link to Source]](https://w20.bcn.cat/cartobcn/)
 * income_data.csv: average net income per person by Barcelona's districts, and Catalan municipalities, counties and provinces. [[Link to Source]](https://www.ine.es/jaxiT3/Tabla.htm?t=30896&L=0)
 * municipality_county_province_cat.csv: Administrative division of Catalonia into municipalities, counties and provinces. Used to average data from municipalities to counties and provinces. [[Adapted from here]](https://www.icgc.cat/Descarregues/Cartografia-vectorial/Divisions-administratives)
