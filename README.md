@@ -44,7 +44,7 @@ Our repository contains the following notebooks:
 ### CSV & GeoJSON data
 Our repository contains the following data:
 * G20192-Columnes-ME-EN.csv : election data results with the number of votes each party receives with district, municipality, county (comarca) and province precision. Column heads were translated into English for transparency.
-* districts_BCN.geojson : map of Barcelona's districts
+* districts_BCN.geojson : map of Barcelona's districts [[Link to Source]](https://w20.bcn.cat/cartobcn/)
 * income_data.csv: income per household by Barcelona's municipalities and districts. [[Link to Source]](https://www.ine.es/jaxiT3/Tabla.htm?t=30896&L=0)
 * income_by_municipality.csv: income per household by Catalan municipalities. [[Adapted from]](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&menu=resultados&idp=1254735976608)
 * municipality_county_province_cat.csv: Administrative division of Catalonia into municipalities, counties and provinces. Used to average data from municipalities to counties and provinces. [[Adapted from]](https://www.icgc.cat/Descarregues/Cartografia-vectorial/Divisions-administratives)
