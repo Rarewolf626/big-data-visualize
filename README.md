@@ -46,7 +46,7 @@ Our repository contains the following data:
 * G20192-Columnes-ME-EN.csv : election data results with the number of votes each party receives with district, municipality, county (comarca) and province precision. Column heads were translated into English for transparency.
 * districts_BCN.geojson : map of Barcelona's districts [[Link to Source]](https://w20.bcn.cat/cartobcn/)
 * income_data.csv: average net income per person by Barcelona's districts, and Catalan municipalities, counties and provinces. [[Link to Source]](https://www.ine.es/jaxiT3/Tabla.htm?t=30896&L=0)
-* municipality_county_province_cat.csv: Administrative division of Catalonia into municipalities, counties and provinces. Used to average data from municipalities to counties and provinces. [[Adapted from]](https://www.icgc.cat/Descarregues/Cartografia-vectorial/Divisions-administratives)
+* municipality_county_province_cat.csv: Administrative division of Catalonia into municipalities, counties and provinces. Used to average data from municipalities to counties and provinces. [[Adapted from here]](https://www.icgc.cat/Descarregues/Cartografia-vectorial/Divisions-administratives)
 * municipality_map.geojson : map of Catalonia's municipalities [[Link to Source]](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/L-mits-administratius-municipals-de-Catalunya/97qg-zvqd)
 * county_map.geojson : map of Catalonia's counties (comarcas) [[Link to Source]](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/L-mits-administratius-comarcals-de-Catalunya/aasi-gwnd)
 * province_map.geojson : map of Catalonia's provinces [[Link to Source]](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/L-mits-administratius-provincials-de-Catalunya/d2un-hz8w)
